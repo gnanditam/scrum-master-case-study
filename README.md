@@ -123,7 +123,75 @@ La distribution directe des tâches par le Tech Lead limite l'autonomie des Deve
 
 Le Daily de 45 minutes et la faible participation aux rétrospectives restent des problèmes à traiter. Ils sont cependant considérés comme secondaires par rapport aux problèmes ayant un impact direct sur la qualité, la prévisibilité et la livraison de valeur.
 
-## 3. Gestion de l'urgence du CEO
+## ## 3. Gestion de l'urgence du CEO
+
+### Situation
+
+Au jour 5 du Sprint, le CEO demande une fonctionnalité urgente estimée à 13 points, avec une livraison souhaitée pour vendredi.
+
+Le Product Owner souhaite accepter immédiatement la demande tandis que le Tech Lead s'y oppose.
+
+La demande doit être traitée en respectant les responsabilités Scrum et en protégeant autant que possible le Sprint Goal.
+
+### 3.1 Clarifier la valeur et l'urgence
+
+Le Product Owner doit clarifier :
+
+- la valeur business de la fonctionnalité ;
+- la raison de l'urgence ;
+- les conséquences d'une livraison plus tardive ;
+- les parties prenantes concernées ;
+- le niveau de priorité par rapport aux autres éléments du Product Backlog.
+
+Le fait que la demande provienne du CEO ne signifie pas automatiquement qu'elle doit être ajoutée au Sprint.
+
+### 3.2 Évaluer l'impact sur le Sprint
+
+Les Developers doivent analyser la faisabilité de la demande et son impact sur :
+
+- le Sprint Goal ;
+- les éléments déjà sélectionnés ;
+- la capacité restante ;
+- les dépendances ;
+- les risques techniques ;
+- la qualité et la Definition of Done.
+
+Le Scrum Master facilite cette discussion mais ne décide pas à la place des Developers ou du Product Owner.
+
+### 3.3 Arbitrer le périmètre
+
+Si la fonctionnalité est réellement prioritaire, le Product Owner et les Developers peuvent discuter de l'adaptation du périmètre du Sprint.
+
+L'objectif est de préserver le Sprint Goal tout en intégrant la demande si cela reste réaliste.
+
+Il ne faut pas simplement ajouter 13 points au Sprint sans retirer ou réorganiser du travail.
+
+### 3.4 Préserver la qualité
+
+Compte tenu des trois incidents de production récents, l'équipe ne doit pas sacrifier la qualité pour respecter une date imposée.
+
+La fonctionnalité doit respecter la Definition of Done avant d'être considérée comme terminée.
+
+### 3.5 Si le Sprint Goal devient obsolète
+
+Si la nouvelle demande rend le Sprint Goal obsolète, le Product Owner peut décider d'annuler le Sprint.
+
+Dans ce cas, un nouveau Sprint peut être planifié autour du nouvel objectif.
+
+### Décision recommandée
+
+La recommandation est de **ne pas accepter automatiquement les 13 points**.
+
+Il faut d'abord :
+
+1. clarifier la valeur et l'urgence ;
+2. analyser l'impact sur le Sprint Goal ;
+3. laisser les Developers évaluer la faisabilité ;
+4. négocier éventuellement le périmètre du Sprint ;
+5. préserver la qualité et la Definition of Done ;
+6. annuler le Sprint uniquement si le Sprint Goal devient obsolète.
+
+Le Scrum Master joue ici un rôle de facilitation, de coaching et de protection du cadre Scrum, sans imposer lui-même la décision.
 
 ## 4. Plan d'amélioration à 30 jours
 
