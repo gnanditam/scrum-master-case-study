@@ -294,7 +294,43 @@ La vélocité pourra être observée comme une donnée historique utile à la pr
 
 L'évolution des indicateurs sera analysée régulièrement, notamment lors des rétrospectives, afin de décider des actions d'amélioration à mettre en œuvre.
 
-## 7. Gestion de la demande de +30 % de vélocité
+## ## 7. Gestion de la demande de +30 % de vélocité
+
+### Situation
+
+La direction demande une augmentation de **30 % de la vélocité dès le prochain Sprint**.
+
+Cette demande doit être recadrée car la vélocité est une mesure de capacité passée et ne constitue pas un objectif de performance.
+
+### Analyse de l'historique
+
+| Sprint | Points terminés |
+|---|---:|
+| S21 | 31 |
+| S22 | 29 |
+| S23 | 27 |
+| S24 | 28 |
+
+La moyenne des quatre derniers Sprints est de :
+
+**28,75 points par Sprint.**
+
+Une augmentation mécanique de 30 % donnerait environ **37,4 points**.
+
+Cependant, ce chiffre ne constitue pas un objectif pertinent à imposer à l'équipe.
+
+### Pourquoi ne pas imposer +30 % ?
+
+La vélocité dépend notamment :
+
+- de la manière dont les éléments sont estimés ;
+- de la capacité disponible ;
+- de la complexité du travail ;
+- des interruptions ;
+- des dépendances ;
+- des problèmes de qualité.
+
+Augmenter artificiellement les estimations ou demander à l'équipe de prendre davantage
 
 ## Conclusion
 
