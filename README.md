@@ -332,6 +332,14 @@ La vélocité dépend notamment :
 
 Augmenter artificiellement les estimations ou demander à l'équipe de prendre davantage
 
-## Conclusion
+## ## Conclusion
+
+La priorité n'est pas d'augmenter artificiellement la vélocité, mais d'améliorer durablement la capacité de l'équipe à livrer de la valeur.
+
+L'approche proposée consiste d'abord à stabiliser le fonctionnement de l'équipe, clarifier les responsabilités, améliorer la qualité du Product Backlog, réduire les perturbations et renforcer la qualité.
+
+Les résultats seront ensuite inspectés à l'aide de métriques adaptées afin d'identifier les prochaines améliorations.
+
+Le Scrum Master accompagne l'équipe et l'organisation dans cette démarche en favorisant la transparence, l'inspection et l'adaptation.
 
 ## Outils utilisés
