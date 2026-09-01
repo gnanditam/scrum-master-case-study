@@ -193,7 +193,54 @@ Il faut d'abord :
 
 Le Scrum Master joue ici un rôle de facilitation, de coaching et de protection du cadre Scrum, sans imposer lui-même la décision.
 
-## 4. Plan d'amélioration à 30 jours
+## ## 4. Plan d'amélioration à 30 jours
+
+L'objectif du plan est de stabiliser le fonctionnement de l'équipe, améliorer la qualité, réduire les reports et les perturbations du Sprint, puis mettre en place une démarche d'amélioration continue.
+
+### Objectifs à 30 jours
+
+- Améliorer la prévisibilité des Sprints.
+- Réduire le taux de tickets reportés.
+- Réduire les incidents de production.
+- Améliorer la qualité du Product Backlog.
+- Renforcer l'auto-management des Developers.
+- Améliorer l'efficacité des événements Scrum.
+
+---
+
+### Jours 1 à 7 – Stabiliser
+
+**Priorité : réduire les perturbations et traiter les problèmes les plus critiques.**
+
+Actions :
+
+- Clarifier les rôles et responsabilités Scrum avec toute l'équipe.
+- Rappeler que les Developers s'organisent eux-mêmes pour réaliser le travail.
+- Clarifier le rôle du Tech Lead afin qu'il n'attribue pas directement les tâches.
+- Identifier les principaux impediments qui ralentissent l'équipe.
+- Analyser les trois incidents de production récents afin d'identifier leurs causes.
+- Vérifier la Definition of Done et identifier les éventuels écarts.
+- Ramener le Daily Scrum à 15 minutes maximum.
+
+**Résultat attendu :** une équipe plus autonome, moins perturbée et consciente de ses principaux obstacles.
+
+---
+
+### Jours 8 à 15 – Améliorer le Product Backlog
+
+**Priorité : améliorer la qualité et la compréhension des éléments avant leur sélection dans un Sprint.**
+
+Actions :
+
+- Mettre en place des sessions régulières de Product Backlog Refinement.
+- Clarifier les besoins et la valeur des éléments.
+- Améliorer les critères d'acceptation.
+- Découper les éléments trop volumineux.
+- Identifier les dépendances et les risques.
+- Impliquer les Developers et les QA dans la clarification des éléments.
+- Vérifier régulièrement que les éléments prioritaires sont suffisamment compris pour être sélectionnés.
+
+**Résultat attendu :** des éléments de Product Backlog mieux compris, mieux découpés et
 
 ## 5. Amélioration des événements Scrum
 
