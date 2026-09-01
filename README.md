@@ -242,7 +242,28 @@ Actions :
 
 **Résultat attendu :** des éléments de Product Backlog mieux compris, mieux découpés et
 
-## 5. Amélioration des événements Scrum
+## ## 5. Amélioration des événements Scrum
+
+Les événements Scrum doivent permettre l'inspection et l'adaptation du travail et du produit. Les corrections proposées visent principalement à améliorer la collaboration, la transparence, la qualité et l'atteinte du Sprint Goal.
+
+### 5.1 Sprint Planning
+
+**Dysfonctionnements constatés :**
+
+- Engagements régulièrement supérieurs à la capacité réelle.
+- Tickets parfois mal définis.
+- Risque de planification basée principalement sur le nombre de points.
+
+**Actions proposées :**
+
+- Définir un Sprint Goal clair et compréhensible.
+- S'assurer que les éléments sélectionnés sont suffisamment compris.
+- Tenir compte de la capacité réelle de l'équipe et des informations issues des Sprints précédents.
+- Permettre aux Developers de déterminer la quantité de travail qu'ils peuvent raisonnablement réaliser.
+- Éviter de remplir artificiellement le Sprint Backlog.
+- Identifier les dépendances et les risques avant de commencer le Sprint.
+
+**Résultat attendu :** des Sprints plus prévis
 
 ### Sprint Planning
 ### Daily Scrum
