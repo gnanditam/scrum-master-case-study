@@ -342,4 +342,8 @@ Les résultats seront ensuite inspectés à l'aide de métriques adaptées afin 
 
 Le Scrum Master accompagne l'équipe et l'organisation dans cette démarche en favorisant la transparence, l'inspection et l'adaptation.
 
-## Outils utilisés
+## ## Outils utilisés
+
+- GitHub : dépôt et gestion du livrable.
+- Markdown : rédaction et structuration du README.
+- ChatGPT : aide à l'analyse du cas, à la structuration des réponses et à la reformulation.
