@@ -271,7 +271,28 @@ Les événements Scrum doivent permettre l'inspection et l'adaptation du travail
 ### Sprint Review
 ### Sprint Retrospective
 
-## 6. Métriques de suivi
+## ## 6. Métriques de suivi
+
+Afin de mesurer l'amélioration de l'équipe sans créer de pression sur un indicateur unique, six indicateurs sont retenus.
+
+| Indicateur | Objectif | Utilisation |
+|---|---|---|
+| **Taux de tickets reportés** | Améliorer la prévisibilité | Identifier les causes des reports |
+| **Taux d'atteinte du Sprint Goal** | Mesurer la capacité à atteindre les objectifs | Vérifier la stabilité des Sprints |
+| **Incidents / défauts en production** | Améliorer la qualité | Suivre l'évolution des problèmes après livraison |
+| **Cycle Time** | Améliorer la fluidité du flux | Identifier les ralentissements et blocages |
+| **Throughput** | Suivre la capacité de livraison | Observer le nombre d'éléments terminés |
+| **Âge des éléments en cours / WIP** | Limiter l'accumulation de travail | Identifier les goulots d'étranglement |
+
+### Utilisation des métriques
+
+Les métriques seront utilisées comme des informations permettant à l'équipe d'inspecter son fonctionnement et d'identifier des pistes d'amélioration.
+
+Elles ne doivent pas être utilisées pour comparer les individus ou imposer des objectifs artificiels.
+
+La vélocité pourra être observée comme une donnée historique utile à la prévision, mais elle ne sera pas considérée comme un objectif de performance.
+
+L'évolution des indicateurs sera analysée régulièrement, notamment lors des rétrospectives, afin de décider des actions d'amélioration à mettre en œuvre.
 
 ## 7. Gestion de la demande de +30 % de vélocité
 
