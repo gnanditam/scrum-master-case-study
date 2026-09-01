@@ -85,7 +85,43 @@ Les principaux dysfonctionnements sont donc liés à :
 - une pression managériale excessive sur la vélocité ;
 - des problèmes de qualité matérialisés par des incidents en production.
 
-## 2. Top 5 des problèmes critiques
+## ## 2. Top 5 des problèmes critiques
+
+Après analyse de l'ensemble des dysfonctionnements, les cinq problèmes suivants sont considérés comme prioritaires selon leur impact sur la valeur, la qualité, la prévisibilité et la capacité de l'équipe à fonctionner efficacement.
+
+| Priorité | Problème critique | Impact |
+|---|---|---|
+| **1** | Qualité insuffisante et incidents de production | Risque direct pour les utilisateurs et le produit |
+| **2** | Engagements supérieurs à la capacité réelle | Faible prévisibilité et nombreux reports |
+| **3** | Perturbations du Sprint | Risque sur le Sprint Goal et perte de focus |
+| **4** | Tickets mal définis | Blocages, rework et estimations peu fiables |
+| **5** | Auto-management insuffisant | Dépendance au Tech Lead et responsabilités mal réparties |
+
+### Justification du classement
+
+**1. Qualité et incidents de production**
+
+Les trois incidents de production du mois dernier constituent le problème le plus critique. Ils peuvent affecter directement les utilisateurs, la confiance dans le produit et la capacité de l'équipe à livrer de la valeur.
+
+**2. Engagements supérieurs à la capacité réelle**
+
+L'équipe termine en moyenne 28,75 points alors qu'elle en planifie 49,5. Cet écart important explique en partie les nombreux reports et révèle un problème de prévisibilité.
+
+**3. Perturbations du Sprint**
+
+L'ajout de tâches en cours de Sprint par le Product Owner peut perturber le travail des Developers et compromettre le Sprint Goal lorsque l'impact n'est pas maîtrisé.
+
+**4. Tickets mal définis**
+
+Des éléments insuffisamment clarifiés entraînent des incompréhensions, des blocages, du rework et des estimations moins fiables.
+
+**5. Auto-management insuffisant**
+
+La distribution directe des tâches par le Tech Lead limite l'autonomie des Developers et crée une dépendance dans l'organisation du travail.
+
+### Problèmes importants mais secondaires
+
+Le Daily de 45 minutes et la faible participation aux rétrospectives restent des problèmes à traiter. Ils sont cependant considérés comme secondaires par rapport aux problèmes ayant un impact direct sur la qualité, la prévisibilité et la livraison de valeur.
 
 ## 3. Gestion de l'urgence du CEO
 
